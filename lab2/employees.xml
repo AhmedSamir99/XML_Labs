@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<employees>
+
+
+  <employee>
+    <name>Samir</name>
+    <phones>
+      <phone type="home">0123456789</phone>
+    </phones>
+    <addresses>
+      <address>
+        <country>Egypt</country>
+        <city>Alexandria</city>
+        <region>louran</region>
+        <buildingNumber>17</buildingNumber>
+        <street>st </street>
+      </address>
+    </addresses>
+    <email>samir@gmail.com</email>
+  </employee>
+
+
+  <employee>
+    <name>Ahmed</name>
+    <phones>
+      <phone type="home">0198765412</phone>
+    </phones>
+    <addresses>
+      <address>
+        <country>Egypt</country>
+        <city>Alexandria</city>
+        <region>Syouf</region>
+        <buildingNumber>11</buildingNumber>
+        <street>st 5</street>
+      </address>
+    </addresses>
+    <email>ahmed@gmail.com</email>
+  </employee>
+
+  
+
+</employees>
