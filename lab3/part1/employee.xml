@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="employees.css"?>
+<Employees xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:noNamespaceSchemaLocation="employees.xsd">
+  <Employee>
+    <Name>Ahmed Samir</Name>
+    <Phones>
+      <Phone Type="home">5758053</Phone>
+      <Phone Type="mobile">0120000000001</Phone>
+    </Phones>
+    <Addresses>
+      <Address>
+        <Street>Main St.</Street>
+        <BuildingNumber>11</BuildingNumber>
+        <Region>Louran</Region>
+        <City>Aleaxandria</City>
+        <Country>Egypt</Country>
+      </Address>
+      <Address>
+        <Street>2nd St.</Street>
+        <BuildingNumber>22</BuildingNumber>
+        <Region>janaklis</Region>
+        <City>Aleaxandria</City>
+        <Country>Egypt</Country>
+      </Address>
+    </Addresses>
+    <Email>samir@gmail.com</Email>
+  </Employee>
+  <Employee>
+    <Name>Ahmed ezz</Name>
+    <Phones>
+      <Phone Type="work">5321456</Phone>
+      <Phone Type="mobile">0120000000002</Phone>
+    </Phones>
+    <Addresses>
+      <Address>
+        <Street>3nd St.</Street>
+        <BuildingNumber>33</BuildingNumber>
+        <Region>san stefano</Region>
+        <City>Aleaxandria</City>
+        <Country>Egypt</Country>
+      </Address>
+    </Addresses>
+    <Email>ezz@gmail.com</Email>
+  </Employee>
+</Employees>
